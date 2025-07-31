@@ -8,3 +8,5 @@ print(True < False) #true es menor que false?
 print("dentro de un 'print', pueden existir 'otros tipos' de comillas")
 #segun el resultado de la consola, true es MAYOR
 #y false es MENOR
+
+print("''Estoy''''''aprendiendo''''''''''Python''''''")
